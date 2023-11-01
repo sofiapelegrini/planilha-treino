@@ -9,4 +9,4 @@ Esse projeto simula uma planilha semanal para o controle de treinos de academia.
 HTML, CSS e JS
 
 # Projeto
-https://planilha-treino.vercel.app/
+https://planilha-treino-sofiapelegrinis-projects.vercel.app/)https://planilha-treino-sofiapelegrinis-projects.vercel.app/
